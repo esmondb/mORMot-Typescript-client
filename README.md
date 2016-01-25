@@ -4,9 +4,9 @@ This provides a typescript/javascript client for mORMot (www.synopse.info). It t
 
 Basic usage:
 
-var SynopseClient = new mORMot.Client();
-SynopseClient.logIn('myserver.com','myname','mypassword');
-SynopseClient.post('myservice','mydata');
+var SynopseClient = new mORMot.Client();<br>
+SynopseClient.logIn('myserver.com', 'myname', 'mypassword');<br>
+SynopseClient.post('myservice', 'mydata');<br>
 SynopseClient.logout();
 
 
