@@ -1,6 +1,6 @@
 # mORMot-Typescript-client
 
-This provides a typescript/javascript client for mORMot (www.synpose.info). It takes the ORM out of mORMot leaving just the mot. But should be useful for SOA calls to a server and CRUD.
+This provides a typescript/javascript client for mORMot (www.synopse.info). It takes the ORM out of mORMot leaving just the mot. But should be useful for SOA calls to a server and CRUD.
 
 Basic usage:
 
